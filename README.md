@@ -62,6 +62,3 @@ Este repositório contém a resolução de cinco desafios de programação em Ja
   { "dia": 4, "valor": 0.0 }
 ]
 ```
-
-## Contato
-Em caso de dúvidas ou sugestões, entre em contato pelo e-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com).
