@@ -7,5 +7,5 @@ function inverterString(str) {
     return invertida;
 }
 
-const stringOriginal = "Exemplo de string";
+const stringOriginal = "roinuJ ziuL odraciR";
 console.log(`String invertida: ${inverterString(stringOriginal)}`);
